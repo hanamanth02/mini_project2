@@ -1,1 +1,2 @@
-# mini_project2
+# Planito
+Planets of solar system
